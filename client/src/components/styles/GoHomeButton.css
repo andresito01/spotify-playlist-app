@@ -1,0 +1,18 @@
+.GoHomeButtonContainer {
+  margin-left: 10px;
+}
+
+button {
+  padding: 5px 10px 5px 10px;
+  color: black;
+  background-color: gold;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  
+}

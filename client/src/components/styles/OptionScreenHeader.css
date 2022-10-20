@@ -1,0 +1,5 @@
+.OptionScreenHeaderContainer {
+  display: flex;
+  justify-content: space-between;
+  height: auto;
+}
